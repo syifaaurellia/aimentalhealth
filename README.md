@@ -9,12 +9,6 @@ AiMentalHealth adalah aplikasi web yang menggunakan AI untuk membantu mendeteksi
 - **Sumber Daya Kesehatan Mental**: Akses ke artikel, video, dan panduan tentang kesehatan mental.
 - **Rekomendasi Personalisasi**: Rekomendasi berdasarkan data pengguna menggunakan algoritma AI.
 
-## Teknologi yang Digunakan
-- **Frontend**: HTML, CSS
-- **Backend**: Tidak ada informasi spesifik
-- **AI**: Tidak ada informasi spesifik
-- **Hosting**: Vercel
-
 ## Instalasi dan Penggunaan
 Untuk menjalankan proyek ini di lingkungan lokal Anda:
 
